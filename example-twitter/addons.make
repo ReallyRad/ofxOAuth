@@ -1,0 +1,3 @@
+ofxCurl
+ofxJSON
+ofxOAuth
